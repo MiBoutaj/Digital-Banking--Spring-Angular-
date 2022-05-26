@@ -32,7 +32,7 @@ public class BankAccountRestApi {
     public AccountHistoryDTO getAccountHistory(
             @PathVariable String accountId,
             @RequestParam(name="page",defaultValue = "0") int page,
-            @RequestParam(name="size",defaultValue = "5")int size)  {
+            @RequestParam(name="size",defaultValue = "5")int size) throws BankNotFoundException {
         return bankAccountService.getAccountHistory(accountId,page,size);
     }
     @PostMapping("/accounts/debit")

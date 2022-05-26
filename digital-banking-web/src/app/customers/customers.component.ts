@@ -16,7 +16,7 @@ export class CustomersComponent implements OnInit {
   errorMessage!: string;
   searchFormGroup : FormGroup | undefined;
 
-  constructor(private  : CustomerService,
+  constructor(private customerService  : CustomerService,
               private fb : FormBuilder,
               private router : Router) { }
 
