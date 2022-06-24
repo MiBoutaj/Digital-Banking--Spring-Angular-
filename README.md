@@ -18,9 +18,14 @@ o	Consulter un compte
 Analyse et Conception :
 1.	Digramme de classe :
 
+![image](https://user-images.githubusercontent.com/90484039/175660644-09680cd8-30f9-4b73-b892-1c8d76fe0d6a.png)
+
+
 2.	Pourquoi spring et angular ?
 Spring Boot et Angular sont deux frameworks particulièrement prisés pour le développement d'applications web responsives. Ils offrent un cadre structurant pour un développement productif, maintenable, testable et facilement déployable.
-Gestion de code source avec Git 
+Gestion de code source avec Git :
+![image](https://user-images.githubusercontent.com/90484039/175660675-87eac978-e2ad-4982-8eb3-2b8dc71b74e0.png)
+
 
 3.	Screen : 
     ![170832446-2cbcf29f-2a89-49c3-9a74-d833994e404e](https://user-images.githubusercontent.com/90484039/175660387-d09bbdc5-a1f8-442b-9ff6-4215093783d2.png)
